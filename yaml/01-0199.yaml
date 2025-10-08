@@ -14,7 +14,21 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - 1-2-3-4!
+  - Mach die Taube!
+  - Kiwipedia (feat. Martha Wilking)
+  - Von hier oben
+  - Monster & Zombies (feat. Junge)
+  - Jonathan Gold (Stimmt aber, weiß ich) (feat. Andreas Spechtl, Deniz Jaspersen & Jasmin Lütz)
+  - Das ist unsere Band
+  - Robodance
+  - Manchmal (feat. Gisbert zu Knyphausen)
+  - Schokolala (feat. Düsseldorf Düsterboys)
+  - Papagei im Radio
+  - In meinem Zimmer (feat. Yolanda Summen & Leon Schröder)
+  - Kiwipedia Reprise (Kurtipedia) (feat. Martha Wilking & Sven van Thom)
+  - Nicht müde (feat. Francoise Cactus, Francesco Wilking, Jee-Hae Kim & Ilias Ntais)
   ids:
   - audio-id: 1561468413
     hash: 07c89090059a1c8ea81fa21acaf2f8528cd51a65
